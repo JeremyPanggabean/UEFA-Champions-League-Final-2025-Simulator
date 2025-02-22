@@ -1,7 +1,7 @@
 # UEFA Champions League Final 2025 Simulator
 
-🔥 Welcome to the UEFA Champions League Final 2025 Simulator! 🔥\n
-Get ready for an epic showdown where UCL Champions are made! 🏆
+🔥 Welcome to the UEFA Champions League Final 2025 Simulator! 🔥
+   Get ready for an epic showdown where UCL Champions are made! 🏆
 
 ## How to Play
 1. Run the script and get assigned a random team for the final.
