@@ -39,11 +39,11 @@ Enter the number of your tactic choice: 1
 You've chosen to play with Total Football tactics! 🎮
 
 Choose your team captain:
-1. Experienced Leader
-2. Young Star
-3. Midfield Maestro
-4. Defensive Wall
-5. Super Striker
+1. Experienced Leader 🤺
+2. Young Star ⚡
+3. Midfield Maestro 👽
+4. Defensive Wall 🧱
+5. Super Striker 🦹
 Enter the number of your captain choice: 3
 
 Your captain is Midfield Maestro! 🏅
